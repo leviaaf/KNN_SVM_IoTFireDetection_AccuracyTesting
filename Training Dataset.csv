@@ -1,0 +1,372 @@
+Time,Api,Suhu,Kelembaban,PPM,Label
+13:33:59,0,26.90,72,50.14,Tidak Kebakaran
+13:34:03,0,26.80,72,50.89,Tidak Kebakaran
+13:34:06,0,26.90,72,49.77,Tidak Kebakaran
+13:34:10,0,26.90,72,51.64,Tidak Kebakaran
+13:34:14,0,26.80,72,54.34,Tidak Kebakaran
+13:34:18,0,26.80,72,47.57,Tidak Kebakaran
+13:34:21,0,26.80,72,49.48,Tidak Kebakaran
+13:34:28,0,26.80,72,46.15,Tidak Kebakaran
+13:34:30,0,26.80,72,57.53,Tidak Kebakaran
+13:34:35,0,26.80,72,54.73,Tidak Kebakaran
+13:34:40,0,26.80,72,48.30,Tidak Kebakaran
+13:34:45,0,26.80,71,49.77,Tidak Kebakaran
+13:34:50,0,26.80,72,49.77,Tidak Kebakaran
+13:34:55,0,26.80,72,55.13,Tidak Kebakaran
+13:35:00,0,26.80,71,57.13,Tidak Kebakaran
+13:35:05,0,26.80,71,55.92,Tidak Kebakaran
+13:35:10,0,26.80,71,47.57,Tidak Kebakaran
+13:35:15,0,26.80,72,48.30,Tidak Kebakaran
+13:35:20,0,26.80,72,43.37,Tidak Kebakaran
+13:35:25,0,26.80,73,55.13,Tidak Kebakaran
+13:35:30,0,26.80,73,49.77,Tidak Kebakaran
+13:35:35,0,26.80,73,50.51,Tidak Kebakaran
+13:35:40,0,26.80,72,50.89,Tidak Kebakaran
+13:35:45,0,26.80,73,57.94,Tidak Kebakaran
+13:35:50,0,26.80,73,45.44,Tidak Kebakaran
+13:35:55,0,26.80,73,50.89,Tidak Kebakaran
+13:36:00,0,26.80,73,59.59,Tidak Kebakaran
+13:36:05,0,26.80,74,49.03,Tidak Kebakaran
+13:36:10,0,26.80,74,51.26,Tidak Kebakaran
+13:36:15,0,26.80,74,47.12,Tidak Kebakaran
+13:36:20,0,26.80,74,51.64,Tidak Kebakaran
+13:36:25,0,26.80,74,50.89,Tidak Kebakaran
+13:36:30,0,26.80,74,57.13,Tidak Kebakaran
+13:36:35,0,26.80,74,56.72,Tidak Kebakaran
+13:36:40,0,26.80,73,56.32,Tidak Kebakaran
+13:36:45,0,26.80,74,60.84,Tidak Kebakaran
+13:36:50,0,26.80,74,50.51,Tidak Kebakaran
+13:36:55,0,26.80,74,50.89,Tidak Kebakaran
+13:37:00,0,26.80,74,55.82,Tidak Kebakaran
+13:37:05,0,26.80,75,50.51,Tidak Kebakaran
+13:37:10,0,26.80,75,52.02,Tidak Kebakaran
+13:37:15,0,26.80,74,57.94,Tidak Kebakaran
+13:37:20,0,26.80,74,57.13,Tidak Kebakaran
+13:37:25,0,26.80,74,62.54,Tidak Kebakaran
+13:37:30,0,26.80,74,60.84,Tidak Kebakaran
+13:37:35,0,26.80,74,61.69,Tidak Kebakaran
+13:37:40,0,26.80,74,57.53,Tidak Kebakaran
+13:37:45,0,26.80,75,50.14,Tidak Kebakaran
+13:37:50,0,26.80,74,50.14,Tidak Kebakaran
+13:37:55,0,26.80,75,63.84,Tidak Kebakaran
+13:38:00,0,26.80,75,62.54,Tidak Kebakaran
+13:38:05,0,26.80,75,50.89,Tidak Kebakaran
+13:38:10,0,26.80,75,45.44,Tidak Kebakaran
+13:38:15,0,26.80,75,51.26,Tidak Kebakaran
+13:38:20,0,26.80,75,50.89,Tidak Kebakaran
+13:38:25,0,26.80,75,50.89,Tidak Kebakaran
+13:38:30,0,26.80,75,59.59,Tidak Kebakaran
+13:38:35,0,26.80,75,52.79,Tidak Kebakaran
+13:38:40,0,26.80,75,52.79,Tidak Kebakaran
+13:38:45,0,26.80,75,46.86,Tidak Kebakaran
+13:38:50,0,26.80,75,62.11,Tidak Kebakaran
+13:38:55,0,26.70,74,57.94,Tidak Kebakaran
+13:39:00,0,26.70,74,46.50,Tidak Kebakaran
+13:39:05,0,26.70,74,52.52,Tidak Kebakaran
+13:39:10,0,26.70,74,47.21,Tidak Kebakaran
+13:39:15,0,26.70,74,60.84,Tidak Kebakaran
+13:39:20,0,26.70,73,113.87,Tidak Kebakaran
+13:39:25,0,26.70,73,137.88,Tidak Kebakaran
+13:39:30,0,26.70,73,175.32,Tidak Kebakaran
+13:39:35,0,26.70,73,579.39,Tidak Kebakaran
+13:39:40,0,26.70,73,524.37,Tidak Kebakaran
+13:39:45,0,26.70,73,497.46,Tidak Kebakaran
+13:39:50,0,26.70,73,456.54,Tidak Kebakaran
+13:39:55,0,26.70,73,458.20,Tidak Kebakaran
+13:40:00,1,26.70,73,421.24,kebakaran
+13:40:05,1,26.70,73,459.86,kebakaran
+13:40:10,1,26.70,74,429.08,kebakaran
+13:40:15,1,26.80,74,416.58,kebakaran
+13:40:20,1,26.80,74,395.34,kebakaran
+13:40:25,1,26.80,74,446.71,kebakaran
+13:40:30,1,26.90,75,468.21,kebakaran
+13:40:35,1,27.00,75,408.90,kebakaran
+13:40:40,1,27.10,76,440.24,kebakaran
+13:40:45,1,27.30,76,456.54,kebakaran
+13:40:50,1,27.40,76,377.77,kebakaran
+13:40:55,1,27.60,76,390.89,kebakaran
+13:41:00,1,27.80,76,407.38,kebakaran
+13:41:05,1,28.00,76,441.85,kebakaran
+13:41:10,1,28.30,77,480.10,kebakaran
+13:41:15,1,28.50,78,486.99,kebakaran
+13:41:20,1,29.00,80,611.53,kebakaran
+13:41:25,1,29.10,80,647.10,kebakaran
+13:41:30,1,29.50,80,677.55,kebakaran
+13:41:35,1,29.80,82,848.97,kebakaran
+13:41:40,1,30.30,83,800.19,kebakaran
+13:41:45,1,30.70,82,825.59,kebakaran
+13:41:50,1,30.90,81,1373.07,kebakaran
+13:41:55,1,31.30,83,1240.89,kebakaran
+13:42:00,1,31.50,82,1070.59,kebakaran
+13:42:05,1,31.90,82,1365.43,kebakaran
+13:42:10,1,32.10,81,1825.83,kebakaran
+13:42:15,1,32.40,83,2967.34,kebakaran
+13:42:20,1,32.60,83,3467.59,kebakaran
+13:42:25,1,32.90,84,2500.15,kebakaran
+13:42:30,1,33.30,84,2538.10,kebakaran
+13:42:35,1,33.60,83,3055.82,kebakaran
+13:42:40,1,33.70,83,2989.25,kebakaran
+13:42:45,1,34.10,83,2179.71,kebakaran
+13:42:50,1,34.30,83,2525.40,kebakaran
+13:42:55,1,35.10,84,2748.92,kebakaran
+13:43:15,1,35.30,85,3990.38,kebakaran
+13:43:28,1,37.30,85,3055.82,kebakaran
+13:43:34,1,38.10,81,3108.49,kebakaran
+13:43:41,1,38.30,80,3231.86,kebakaran
+13:43:45,1,38.70,79,3271.28,kebakaran
+13:43:50,1,38.90,78,3367.6,kebakaran
+13:43:55,1,39.20,78,3733.56,kebakaran
+13:44:00,1,39.40,77,3724.66,kebakaran
+13:44:05,1,39.60,70,3335.22,kebakaran
+13:44:10,1,39.70,61,3093.37,kebakaran
+13:44:15,0,39.80,61,3295.13,Tidak Kebakaran
+13:44:20,0,40.00,65,3311.11,Tidak Kebakaran
+13:44:25,0,40.00,61,2824.78,Tidak Kebakaran
+13:44:30,0,40.10,59,3011.3,Tidak Kebakaran
+13:44:35,0,40.10,61,2641.71,Tidak Kebakaran
+13:44:40,0,40.10,52,2838.77,Tidak Kebakaran
+13:44:45,0,40.10,58,2967.34,Tidak Kebakaran
+13:44:50,0,40.00,59,2288.24,Tidak Kebakaran
+13:44:55,0,39.90,55,1840.37,Tidak Kebakaran
+13:44:59,0,39.80,54,1636.47,Tidak Kebakaran
+16:10:50,0,23.50,84,47.57,Tidak Kebakaran
+16:10:55,0,23.50,84,48.30,Tidak Kebakaran
+16:10:59,0,23.60,84,57.53,Tidak Kebakaran
+16:11:04,0,23.60,84,43.04,Tidak Kebakaran
+16:11:11,0,23.60,85,53.17,Tidak Kebakaran
+16:11:15,0,23.60,85,56.72,Tidak Kebakaran
+16:11:21,0,23.60,85,47.21,Tidak Kebakaran
+16:11:25,0,23.60,85,50.89,Tidak Kebakaran
+16:11:30,0,23.60,85,49.40,Tidak Kebakaran
+16:11:35,0,23.60,84,51.26,Tidak Kebakaran
+16:11:40,0,23.60,84,48.66,Tidak Kebakaran
+16:11:45,0,23.60,84,48.66,Tidak Kebakaran
+16:11:50,0,23.60,84,53.56,Tidak Kebakaran
+16:11:55,0,23.60,84,46.15,Tidak Kebakaran
+16:12:00,0,23.60,84,52.02,Tidak Kebakaran
+16:12:05,0,23.60,84,54.73,Tidak Kebakaran
+16:12:10,0,23.60,84,54.73,Tidak Kebakaran
+16:12:15,0,23.60,84,51.64,Tidak Kebakaran
+16:12:20,0,23.60,84,45.79,Tidak Kebakaran
+16:12:25,0,23.60,85,46.86,Tidak Kebakaran
+16:12:30,0,23.60,84,47.21,Tidak Kebakaran
+16:12:35,0,23.60,84,44.40,Tidak Kebakaran
+16:12:40,0,23.60,84,45.44,Tidak Kebakaran
+16:12:45,0,23.60,84,50.51,Tidak Kebakaran
+16:12:50,0,23.60,84,52.79,Tidak Kebakaran
+16:12:55,0,23.60,84,57.53,Tidak Kebakaran
+16:13:00,0,23.60,84,50.89,Tidak Kebakaran
+16:13:05,0,23.60,84,50.14,Tidak Kebakaran
+16:13:10,0,23.60,84,48.66,Tidak Kebakaran
+16:13:15,0,23.60,84,50.89,Tidak Kebakaran
+16:13:20,0,23.60,84,50.14,Tidak Kebakaran
+16:13:25,0,23.60,84,50.89,Tidak Kebakaran
+16:13:30,0,23.60,84,55.92,Tidak Kebakaran
+16:13:35,0,23.60,84,60.84,Tidak Kebakaran
+16:13:40,0,23.60,84,46.86,Tidak Kebakaran
+16:13:45,0,23.60,85,49.03,Tidak Kebakaran
+16:13:50,0,23.60,84,57.53,Tidak Kebakaran
+16:13:55,0,23.60,84,60.84,Tidak Kebakaran
+16:14:00,0,23.60,84,57.94,Tidak Kebakaran
+16:14:05,0,23.60,85,50.89,Tidak Kebakaran
+16:14:10,0,23.60,85,57.94,Tidak Kebakaran
+16:14:15,0,23.60,85,61.69,Tidak Kebakaran
+16:14:20,0,23.60,85,60.84,Tidak Kebakaran
+16:14:25,0,23.60,85,63.84,Tidak Kebakaran
+16:14:30,0,23.60,85,59.17,Tidak Kebakaran
+16:14:35,0,23.60,85,63.84,Tidak Kebakaran
+16:14:40,0,23.60,85,55.13,Tidak Kebakaran
+16:14:45,0,23.60,85,53.95,Tidak Kebakaran
+16:14:50,0,23.60,85,50.89,Tidak Kebakaran
+16:14:55,0,23.60,85,58.35,Tidak Kebakaran
+16:15:00,0,23.60,84,62.54,Tidak Kebakaran
+16:15:05,0,23.60,84,63.40,Tidak Kebakaran
+16:15:10,0,23.60,84,66.47,Tidak Kebakaran
+16:15:15,0,23.60,84,56.72,Tidak Kebakaran
+16:15:20,0,23.60,84,63.84,Tidak Kebakaran
+16:15:25,0,23.60,84,70.56,Tidak Kebakaran
+16:15:30,0,23.60,84,71.03,Tidak Kebakaran
+16:15:35,0,23.60,84,66.92,Tidak Kebakaran
+16:15:40,0,23.60,84,66.03,Tidak Kebakaran
+16:15:45,0,23.60,84,55.92,Tidak Kebakaran
+16:15:50,0,23.60,84,290.89,Tidak Kebakaran
+16:15:55,1,24.40,85,807.74,kebakaran
+16:16:00,1,25.20,85,711.35,kebakaran
+16:16:05,1,26.00,84,531.72,kebakaran
+16:16:10,1,26.60,82,464.86,kebakaran
+16:16:15,1,27.50,81,435.43,kebakaran
+16:16:20,1,28.00,80,408.90,kebakaran
+16:16:25,1,28.40,78,369.19,kebakaran
+16:16:30,1,28.70,77,355.21,kebakaran
+16:16:35,1,29.20,76,340.27,kebakaran
+16:16:40,1,29.50,75,342.96,kebakaran
+16:16:45,1,29.80,73,377.77,kebakaran
+16:16:50,1,30.10,73,323.20,kebakaran
+16:16:55,1,30.40,73,353.83,kebakaran
+16:17:00,1,30.70,71,348.36,kebakaran
+16:17:05,1,31.00,69,367.78,kebakaran
+16:17:10,1,31.20,66,385.02,kebakaran
+16:17:15,1,31.40,66,389.42,kebakaran
+16:17:20,1,31.80,63,369.19,kebakaran
+16:17:25,1,32.10,64,425.93,kebakaran
+16:17:30,1,32.40,67,476.68,kebakaran
+16:17:35,1,32.70,67,468.21,kebakaran
+16:17:40,1,33.00,66,469.90,kebakaran
+16:17:45,1,33.30,67,524.37,kebakaran
+16:17:50,1,33.70,67,526.20,kebakaran
+16:17:55,1,33.90,67,559.96,kebakaran
+16:18:00,1,34.20,65,478.39,kebakaran
+16:18:05,1,34.40,63,393.85,kebakaran
+16:18:10,1,34.80,60,448.34,kebakaran
+16:18:15,1,35.00,59,446.71,kebakaran
+16:18:20,1,35.20,58,464.86,kebakaran
+16:18:25,1,35.30,59,416.58,kebakaran
+16:18:30,1,35.50,59,449.97,kebakaran
+16:18:35,1,35.80,59,399.83,kebakaran
+16:18:40,1,36.00,59,413.50,kebakaran
+16:18:45,1,36.10,58,453.25,kebakaran
+16:18:50,1,36.30,61,425.93,kebakaran
+16:18:55,1,36.50,58,446.71,kebakaran
+16:19:00,1,36.70,58,446.71,kebakaran
+16:19:05,1,36.80,59,490.47,kebakaran
+16:19:10,1,36.90,61,390.89,kebakaran
+16:19:15,1,37.00,55,421.24,kebakaran
+16:19:20,1,37.20,57,396.83,kebakaran
+16:19:25,1,37.30,55,430.66,kebakaran
+16:19:30,1,37.40,54,443.47,kebakaran
+16:19:35,1,37.40,52,445.09,kebakaran
+16:19:40,1,37.40,55,459.86,kebakaran
+16:19:46,1,37.40,58,499.23,kebakaran
+16:19:50,1,37.30,59,458.20,kebakaran
+16:19:55,1,37.40,59,511.68,kebakaran
+16:20:00,1,37.40,56,528.03,kebakaran
+16:20:05,1,37.40,57,550.42,kebakaran
+16:20:10,1,37.40,56,556.13,kebakaran
+16:20:15,1,37.40,55,565.74,kebakaran
+16:20:20,1,37.30,54,605.40,kebakaran
+16:20:25,1,37.30,54,587.31,kebakaran
+16:20:30,1,37.10,52,607.44,kebakaran
+16:20:35,1,37.00,51,615.63,kebakaran
+16:20:40,1,36.90,54,688.68,kebakaran
+16:20:45,1,36.90,58,651.39,kebakaran
+16:20:50,1,36.90,58,697.68,kebakaran
+17:03:13,0,23.00,85,2.55,Tidak Kebakaran
+17:03:18,0,23.10,85,3.07,Tidak Kebakaran
+17:03:26,0,23.10,85,2.93,Tidak Kebakaran
+17:03:33,0,23.10,84,3.81,Tidak Kebakaran
+17:03:38,0,23.20,84,4.55,Tidak Kebakaran
+17:03:43,0,23.20,84,3.65,Tidak Kebakaran
+17:03:50,0,23.20,84,4.99,Tidak Kebakaran
+17:03:55,0,23.20,84,5.76,Tidak Kebakaran
+17:04:00,0,23.20,84,3.14,Tidak Kebakaran
+17:04:05,0,23.20,84,5.27,Tidak Kebakaran
+17:04:10,0,23.20,84,7.61,Tidak Kebakaran
+17:04:15,0,23.20,84,6.64,Tidak Kebakaran
+17:04:20,0,23.20,84,6.81,Tidak Kebakaran
+17:04:25,0,23.20,84,8.46,Tidak Kebakaran
+17:04:30,0,23.30,84,6.70,Tidak Kebakaran
+17:04:35,0,23.30,84,9.77,Tidak Kebakaran
+17:04:40,0,23.30,84,9.90,Tidak Kebakaran
+17:04:45,0,23.30,84,10.61,Tidak Kebakaran
+17:04:50,0,23.30,84,8.58,Tidak Kebakaran
+17:04:55,0,23.30,84,12.10,Tidak Kebakaran
+17:05:00,0,23.30,84,11.04,Tidak Kebakaran
+17:05:05,0,23.30,84,12.11,Tidak Kebakaran
+17:05:10,0,23.30,84,12.26,Tidak Kebakaran
+17:05:15,0,23.30,84,13.71,Tidak Kebakaran
+17:05:20,0,23.30,84,18.69,Tidak Kebakaran
+17:05:25,0,23.30,84,21.88,Tidak Kebakaran
+17:05:30,0,23.40,84,14.22,Tidak Kebakaran
+17:05:35,0,23.40,84,13.88,Tidak Kebakaran
+17:05:40,0,23.40,84,20.57,Tidak Kebakaran
+17:05:45,0,23.40,84,22.10,Tidak Kebakaran
+17:05:50,0,23.40,84,16.74,Tidak Kebakaran
+17:05:55,0,23.40,84,21.65,Tidak Kebakaran
+17:06:00,0,23.40,84,25.37,Tidak Kebakaran
+17:06:05,0,23.40,85,22.78,Tidak Kebakaran
+17:06:10,0,23.40,85,20.35,Tidak Kebakaran
+17:06:15,0,23.40,85,22.32,Tidak Kebakaran
+17:06:20,0,23.40,85,30.26,Tidak Kebakaran
+17:06:25,0,23.50,85,28.92,Tidak Kebakaran
+17:06:30,0,23.50,85,29.45,Tidak Kebakaran
+17:06:35,0,23.50,85,23.93,Tidak Kebakaran
+17:06:40,0,23.50,85,29.45,Tidak Kebakaran
+17:06:45,0,23.50,85,30.53,Tidak Kebakaran
+17:06:50,0,23.50,85,31.36,Tidak Kebakaran
+17:06:55,0,23.50,85,34.81,Tidak Kebakaran
+17:07:00,0,23.50,85,33.92,Tidak Kebakaran
+17:07:05,0,23.50,85,40.06,Tidak Kebakaran
+17:07:10,0,23.50,85,39.74,Tidak Kebakaran
+17:07:15,0,23.50,85,40.71,Tidak Kebakaran
+17:07:20,0,23.50,85,41.04,Tidak Kebakaran
+17:07:25,0,23.50,85,35.39,Tidak Kebakaran
+17:07:30,0,23.50,85,45.79,Tidak Kebakaran
+17:07:35,0,23.50,85,36.31,Tidak Kebakaran
+17:07:40,0,23.50,85,38.15,Tidak Kebakaran
+17:07:45,0,23.50,85,37.84,Tidak Kebakaran
+17:07:50,0,23.50,85,47.57,Tidak Kebakaran
+17:07:55,0,23.50,85,46.86,Tidak Kebakaran
+17:08:00,0,23.50,85,46.86,Tidak Kebakaran
+17:08:05,0,23.50,84,266.51,Tidak Kebakaran
+17:08:10,0,23.50,84,402.83,Tidak Kebakaran
+17:08:15,0,23.50,84,3169.65,Tidak Kebakaran
+17:08:20,0,23.40,84,9488.60,Tidak Kebakaran
+17:08:25,1,25.10,85,9053.61,kebakaran
+17:08:30,1,27.60,84,2247.74,kebakaran
+17:08:35,1,29.70,81,1584.21,kebakaran
+17:08:40,1,31.50,79,1335.21,kebakaran
+17:08:45,1,33.10,75,1178.35,kebakaran
+17:08:50,1,34.10,69,973.63,kebakaran
+17:08:55,1,35.40,60,919.38,kebakaran
+17:09:00,1,35.90,56,800.19,kebakaran
+17:09:05,1,36.40,54,838.51,kebakaran
+17:09:10,1,36.70,51,736.94,kebakaran
+17:09:15,1,36.80,51,711.35,kebakaran
+17:09:20,1,36.90,47,681.98,kebakaran
+17:09:25,1,36.90,47,632.27,kebakaran
+17:09:30,1,36.90,46,599.33,kebakaran
+17:09:35,1,36.80,45,632.27,kebakaran
+17:09:40,1,36.60,45,621.83,kebakaran
+17:09:45,1,36.50,46,605.41,kebakaran
+17:09:50,0,36.30,46,585.32,Tidak Kebakaran
+17:09:55,0,36.20,45,619.76,Tidak Kebakaran
+17:10:00,0,35.90,46,554.22,Tidak Kebakaran
+17:10:05,0,35.70,45,621.83,Tidak Kebakaran
+17:10:10,0,35.50,45,607.44,Tidak Kebakaran
+17:10:15,0,35.40,46,593.29,Tidak Kebakaran
+17:10:20,0,35.10,46,583.34,Tidak Kebakaran
+17:10:25,0,34.90,47,544.76,Tidak Kebakaran
+17:10:30,0,34.70,48,537.28,Tidak Kebakaran
+17:10:35,0,34.50,49,518.91,Tidak Kebakaran
+17:10:40,0,34.30,49,513.48,Tidak Kebakaran
+17:10:45,0,34.10,49,524.37,Tidak Kebakaran
+17:10:50,0,33.90,49,537.28,Tidak Kebakaran
+17:10:55,0,33.70,49,473.28,Tidak Kebakaran
+17:11:00,0,33.50,49,499.23,Tidak Kebakaran
+17:11:05,0,33.30,51,492.21,Tidak Kebakaran
+17:11:10,0,33.10,52,486.99,Tidak Kebakaran
+17:11:15,0,33.00,52,529.87,Tidak Kebakaran
+17:11:20,0,32.80,52,518.90,Tidak Kebakaran
+17:11:25,0,32.60,54,621.83,Tidak Kebakaran
+17:11:30,0,32.40,59,666.55,Tidak Kebakaran
+17:11:35,0,32.30,59,571.56,Tidak Kebakaran
+17:11:40,0,32.20,58,542.88,Tidak Kebakaran
+17:11:45,0,32.10,57,499.23,Tidak Kebakaran
+17:11:50,0,31.00,56,478.39,Tidak Kebakaran
+17:11:55,0,31.70,55,464.86,Tidak Kebakaran
+17:12:00,0,31.50,56,440.24,Tidak Kebakaran
+17:12:05,0,31.50,57,443.47,Tidak Kebakaran
+17:12:10,0,31.30,57,441.85,Tidak Kebakaran
+17:12:15,0,31.20,57,416.58,Tidak Kebakaran
+17:12:20,0,31.10,57,466.53,Tidak Kebakaran
+17:12:25,0,30.90,58,413.50,Tidak Kebakaran
+17:12:30,0,30.80,58,396.83,Tidak Kebakaran
+17:12:35,0,30.60,59,445.09,Tidak Kebakaran
+17:12:40,0,30.50,59,376.33,Tidak Kebakaran
+17:12:45,0,30.40,60,416.58,Tidak Kebakaran
+17:12:50,0,30.30,60,416.58,Tidak Kebakaran
+17:12:55,0,30.20,60,433.84,Tidak Kebakaran
+17:13:00,0,30.10,60,435.43,Tidak Kebakaran
+17:13:05,0,29.90,60,435.43,Tidak Kebakaran
+17:13:10,0,29.80,61,418.13,Tidak Kebakaran
+17:13:15,0,29.70,61,396.83,Tidak Kebakaran
